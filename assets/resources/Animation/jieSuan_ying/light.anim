@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "light",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": "1",
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": 255
+        },
+        {
+          "frame": 2.5,
+          "value": 255
+        },
+        {
+          "frame": 2.9833333333333334,
+          "value": 0
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0.11666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 3,
+          "value": 100
+        }
+      ]
+    }
+  },
+  "events": []
+}

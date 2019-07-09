@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4bb12887-d640-4d53-a7ac-4eb8f27324ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_jetton": {
+      "ver": "1.0.3",
+      "uuid": "50d4229f-3595-41bd-83e3-1d217b934581",
+      "rawTextureUuid": "4bb12887-d640-4d53-a7ac-4eb8f27324ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 974,
+      "height": 114,
+      "rawWidth": 976,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
